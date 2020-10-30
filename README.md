@@ -1,2 +1,5 @@
 # Simple-Spam-Bot-Discord
-Spam
+
+!setmsg <any msg u want>
+  
+!spam @ping amount
