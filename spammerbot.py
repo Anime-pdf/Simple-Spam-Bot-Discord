@@ -37,4 +37,4 @@ async def spam(ctx, member, ammount):
 @client.command(aliases = ['clear'])
 async def __clear(ctx, amount = 5):
   await ctx.channel.purge(limit=amount+1)
-client.run('NzQwNTc1MjQ2NTA3MTgwMDYy.XyrAcQ.CMV5kR2ykeE148dAKrGEpmdGXrc')
+client.run('token')
